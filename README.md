@@ -6,7 +6,7 @@ This code is currently alpha version and still under technical development.But t
 
 Release Notes
 -----------------
-Date - Note: November 9 2018 - Release Essential Code of GYB Kenerl.
+Date - Note: November 16 2018 - Release Essential Code of GYB Kenerl.
 ------------------------------------------------------------------------
 
 
